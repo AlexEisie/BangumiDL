@@ -1,0 +1,9 @@
+{
+	"mail_host" : "",
+	"mail_host_port" : 0,
+	"mail_pass" : "",
+	"mail_user" : "",
+	"receivers" : 
+	[],
+	"sender" : ""
+}
