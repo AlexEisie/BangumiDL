@@ -11,6 +11,8 @@ https://github.com/AlexEisie/BangumiDLChecker-on-nyaa.si
 	python3 wget aria2(aria2c) rclone
 可以下载Releases中的已编译版本(Linux_x86_64)或者自行编译（自行编译时注意本程序使用了jsoncpp，注意链接库）
 
+使用：运行main
+
 注意事项：
 爬取的页面文件保存到html文件夹中,下载的种子文件保存到torrent文件夹中(程序不会自动清除，如果体积过大请手动删除torrent目录)，下载的番剧暂时存在downloads中并且上传到预设目录。
 
